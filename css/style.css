@@ -1,0 +1,19 @@
+
+body{
+	background-color:#6E85B7;
+}
+.main_body{
+margin-top:-180px;
+margin-left:10px;
+}
+table{
+	margin-top: 200px;
+    margin-left: 300px;
+    margin-bottom: 200px
+}
+.qalification_body{
+	margin-left:10px;
+}
+.personal_info p {
+line-height: 25px;
+}
